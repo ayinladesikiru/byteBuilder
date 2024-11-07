@@ -1,0 +1,30 @@
+Good evening byte builders, pls help me install python interpreter on your systems.
+
+Follow the instructions below for proper installations 
+
+Go to python.org
+Click on download to download the latest python interpreter 
+
+After downloading, right click on the downloaded file and run as administrator 
+
+Make sure you selected the two options below 
+
+Give python interpreter admin access and add interpreter to path 
+
+So the interpreter will available globally on your system.
+
+When you’re done, create a folder 📁 called pythonAssessment and create a python file and name it "hello.py" inside the folder. Write code that displays “hello world” on your console 
+
+git add, commit and push the code to your GitHub repository
+
+Continue to enjoy your evening
+
+write a program that creates a list of 5 random integers and double the elements at odd positions in the list
+
+sample list = [4, 7, 3, 8, 6]
+sample result = [16, 7, 9, 8, 36]
+
+Write a  Python program that takes two digits m (row) and n (column) as input and generates a two-dimensional array. The element value in the i-th row and j-th column of the array should be i*j.
+
+Write a Python program to create a 4 by 5 multidimensional list (lists of lists) with zeros.
+

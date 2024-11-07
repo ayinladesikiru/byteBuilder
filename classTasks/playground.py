@@ -14,3 +14,5 @@ elif score >= 40 and score <= 49:
 
 else:
 	print("failed")
+
+

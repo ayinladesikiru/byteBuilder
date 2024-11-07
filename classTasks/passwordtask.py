@@ -13,7 +13,3 @@ password_astericks = '*' * password_count
 print(password_astericks)
 
 
-sentence = "The up and down arrow keys navigate backwards and forwards through the current interactive session’s snippets. Pressing Enter re-executes the snippet that’s displayed. Let’s set
-grade to 99"
-
-print(sentence)

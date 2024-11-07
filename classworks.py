@@ -1,22 +1,10 @@
-''' calculate area of a square
-hdsfjdkglgljgflfdldflsd
-jdfjfusksdss
-'''
+counter = int(input("Enter number: "))
 
-name = "emmanuel"
-my_name = "sikiru"
-gender = 'm'
-print(type(gender))
-
-age = 21
-new_age = age + 4
-print(new_age) 
-age = 21.5
-
-print("the length is", len(my_name))
-
-# this is a single line comment
+while counter != -1:
+	print("funmilola", counter)
+	counter += 1
+	counter = int(input("Enter number: "))
 
 
-print(name, my_name, age, "williams")
+asgiref django django-cors-headers djangorestframework djangorestframework-simplejwt PyJWT pytz sqlparse psycopg2-binary python-dotenv
 

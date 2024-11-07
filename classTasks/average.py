@@ -9,8 +9,11 @@ calculate the sum and store in a variable name total
 calculate the average and store in a variable name average
 '''
 
-number1, number2, number3 = eval(input("Enter the three number: "))
+number1, number2, number3 = int(input("Enter the first number: "))
+number2 = int(input("Enter the second number: "))
+number3 = int(input("Enter the third number: "))
 
-average = sum([number1, number2, number3]) / 3
+total = number1 + number2 + number3
+average = total / 3
 
 print("The average of", number1, number2, number3, "is", average)
